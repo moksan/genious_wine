@@ -1,0 +1,2 @@
+C:\Users\m.oksan\Desktop\Demo_genious\demo\Debug\demo.exe
+C:\Users\m.oksan\Desktop\Demo_genious\demo\Debug\demo.pdb
